@@ -16,3 +16,10 @@ If you want it to update automatically, put it in your crontab.
 ```
 0 */6 * * * ~/cloudflare/klay4.php >/dev/null 2>&1
 ```
+
+# Future Updates
+* Multi Domain Support
+* Log File System
+
+# Contact
+If you have any issue or question you can contact me by Discord: @Klay4#0001
