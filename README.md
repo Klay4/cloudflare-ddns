@@ -1,6 +1,9 @@
 # cloudflare-ddns
 
-This script is using [Cloudflare PHP API Binding](https://support.cloudflare.com/hc/en-us/articles/115001661191-Cloudflare-PHP-API-Binding)
+This script is using [Cloudflare PHP API Binding](https://support.cloudflare.com/hc/en-us/articles/115001661191-Cloudflare-PHP-API-Binding).
+
+Attention!
+You can't use this script with .tk .ml .ga .cf .gq  domains
 
 # How To Use
 ```
