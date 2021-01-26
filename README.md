@@ -4,10 +4,11 @@ This script is using [Cloudflare PHP API Binding](https://support.cloudflare.com
 
 # How To Use
 ```
-$ mkdir coudflare
+$ mkdir cloudflare
 $ cd cloudflare
 $ composer require cloudflare/sdk
 $ git clone https://github.com/Klay4/cloudflare-ddns.git
+### Edit update.php with your CloudFlare credentials and domain details ###
 $ ./update.php
 ```
 
