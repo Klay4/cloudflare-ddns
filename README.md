@@ -25,4 +25,4 @@ If you want it to update automatically, put it in your crontab.
 * Log File System
 
 # Contact
-If you have any issue or question contact me by Discord: @Klay4#0001
+If you have any problems or questions please contact me via Discord: @Klay4#0001
